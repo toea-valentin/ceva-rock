@@ -1,0 +1,10 @@
+.check-boxes {  
+    display:flex;
+    align-items: start;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.check-box{
+margin: 0;
+}
